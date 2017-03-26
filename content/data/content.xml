@@ -1,0 +1,798 @@
+<zuiprezi>
+  <version>8</version>
+  <zui-table>
+    <settings>
+      <autoplay>
+        <delay>4000</delay>
+      </autoplay>
+      <bounds x="-37244.0641290445" y="-17438.442662901158" width="74488.128258089" height="34876.885325802315"/>
+      <aspectratio>off</aspectratio>
+      <languages>
+        <language>fr</language>
+      </languages>
+      <mode type="normal"/>
+    </settings>
+    <object id="4_24309637" type="button" x="2700.6896950348423" y="0" r="0" s="58.12814220967052" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1066.6666666666663</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <parentTemplate>subway2</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+      <layout>
+        <frametype value="OVERVIEW"/>
+      </layout>
+    </object>
+    <object id="28_24309637" type="text" x="-1.3458989138668503e-12" y="-12475.563201217348" r="0" s="148.18871478389542" class="head head-background">
+      <height>27.59765625</height>
+      <width>490.65722573217215</width>
+      <p align="center">
+        <text><![CDATA[hydrate]]></text>
+      </p>
+    </object>
+    <object id="9_38873367" type="image" x="-19369.96132904994" y="-6809.66664777963" r="0" s="19.41021997836373">
+      <source w="749" h="847">3361860490<url>3361860490.jpg</url></source>
+      <sourceUrl>EmptyCup.jpg</sourceUrl>
+    <resource><id>3361860490</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/e/d/0/856d9694bff70e722aa9ebe7df46029433e05.jpg</url></resource></object>
+    <object id="11_24309637" type="shape" x="-5067.404863712596" y="3745.0650633324553" r="0" s="41.99608288193861" class="line3">
+      <geom type="line">
+        <sp>-56.83090379179474 0</sp>
+        <ep>56.83090379179474 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentTemplate>subway2</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="13_24309637" type="shape" x="3455.0429207630423" y="408.1818636573048" r="-44.99999999999999" s="41.99608288193859" class="line4">
+      <geom type="line">
+        <sp>31.279366725550545 0</sp>
+        <ep>-31.279366725550545 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentTemplate>subway2</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="14_24309637" type="shape" x="9444.307335621701" y="-549.1103624021531" r="179.99999999999994" s="41.99608288193859" class="line4">
+      <geom type="line">
+        <sp>119.25115633003811 0</sp>
+        <ep>-119.25115633003811 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentTemplate>subway2</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="15_24309637" type="shape" x="6133.955314658954" y="3752.788240897598" r="-0.1882520639287647" s="41.996082881938605" class="line3">
+      <geom type="line">
+        <sp>55.9720100187575 0</sp>
+        <ep>-55.9720100187575 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentTemplate>subway2</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="16_24309637" type="shape" x="15754.131095374021" y="3747.9517979060047" r="-0.0008171154163535975" s="41.99608288193866" class="line3">
+      <geom type="line">
+        <sp>61.86382646162966 0</sp>
+        <ep>-61.86382646162966 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentTemplate>subway2</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="17_24309637" type="shape" x="-13513.402669874773" y="3786.135685082708" r="-2.38923745362552e-13" s="41.99608288193861" class="line3">
+      <geom type="line">
+        <sp>37.03689225265077 0</sp>
+        <ep>-37.03689225265077 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentTemplate>subway2</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="18_24309637" type="shape" x="-3762.593938743465" y="7852.658272383007" r="-45.000000000000036" s="41.99608288193859" class="line2">
+      <geom type="line">
+        <sp>64.08164519246328 0</sp>
+        <ep>-64.0816451924633 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentTemplate>subway2</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="19_24309637" type="shape" x="-8842.7357696762" y="9777.51336830177" r="-7.484610179766475e-14" s="41.99608288193861" class="line2">
+      <geom type="line">
+        <sp>75.391045919443 0</sp>
+        <ep>-75.391045919443 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentTemplate>subway2</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="0_24309637" type="shape" x="-18171.48065859792" y="9704.989549584341" r="-2.6699058255669176e-13" s="41.99608288193861" class="line2">
+      <geom type="line">
+        <sp>37.03689225265077 0</sp>
+        <ep>-37.03689225265077 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentTemplate>subway2</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="1_24309637" type="shape" x="20546.483344400964" y="-542.0821663449212" r="-9.150192013716588e-14" s="41.99608288193861" class="line4">
+      <geom type="line">
+        <sp>36.92962212959452 0</sp>
+        <ep>-36.92962212959452 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentTemplate>subway2</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="7_24309637" type="button" x="-9732.470014689" y="3733.2476980654124" r="0" s="9.102196069510722" class="circle">
+      <type>circle</type>
+      <size>
+        <w>489.30000000000007</w>
+        <h>489.30000000000007</h>
+      </size>
+      <meta>
+        <parentTemplate>subway2</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="2_38873367" type="shape" x="5745.541967166703" y="8400.622761145312" r="38.401199062719634" s="58.79451603471404" class="line5">
+      <geom type="line">
+        <sp>63.908232583045006 0</sp>
+        <ep>-63.908232583045006 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="8_24309637" type="button" x="570.2632214429682" y="3804.8366960738163" r="0" s="12.955304193223473" class="circle">
+      <type>circle</type>
+      <size>
+        <w>489.3</w>
+        <h>489.3</h>
+      </size>
+      <meta>
+        <parentTemplate>subway2</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="9_24309637" type="button" x="16724.356719801202" y="-609.5571142305677" r="0" s="9.341702397355235" class="circle">
+      <type>circle</type>
+      <size>
+        <w>489.3</w>
+        <h>489.3</h>
+      </size>
+      <meta>
+        <parentTemplate>subway2</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="18_38873367" type="image" x="11597.719521359726" y="4095.3086012791077" r="0" s="2.3436627478451943">
+      <source w="912" h="907">3365756587<url>3365756587.jpg</url></source>
+      <sourceUrl>literature.jpg</sourceUrl>
+    <resource><id>3365756587</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/e/9/e/9b4de783b485b27e1bf273d4bf9e9fca337fd.jpg</url></resource></object>
+    <object id="10_24309637" type="button" x="10820.29680248825" y="3745.6727088697253" r="0" s="9.549857984505492" class="circle">
+      <type>circle</type>
+      <size>
+        <w>489.3</w>
+        <h>489.3</h>
+      </size>
+      <meta>
+        <parentTemplate>subway2</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="12_24309637" type="button" x="-14311.10624932746" y="9762.892919184802" r="0" s="9.345791511218867" class="circle">
+      <type>circle</type>
+      <size>
+        <w>489.3</w>
+        <h>489.3</h>
+      </size>
+      <meta>
+        <parentTemplate>subway2</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="13_38873367" type="image" x="543.2534412587356" y="3299.804952352284" r="0" s="4.323212839337801">
+      <source w="289" h="340">3361871674<url>3361871674.jpe</url></source>
+      <sourceUrl>https%3A%2F%2Fthenpmom.files.wordpress.com%2F2012%2F06%2Fheat-stroke.jpg</sourceUrl>
+    <resource><id>3361871674</id><url>http://0103.static.prezi.com.s3.amazonaws.com/converted/2/7/f/f5507a9f9a5d9168bcd5c53bddf502cef9436.jpe</url></resource></object>
+    <object id="12_4" type="text" x="542.4859131950178" y="2205.965357691087" r="0" s="17.468566859570327" class="strong">
+      <height>27.59765625</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[hydrate]]></text>
+      </p>
+      <layout>
+        <layout-element role="title" parent-id="8_24309637"/>
+      </layout>
+    </object>
+    <object id="12_38873367" type="image" x="-14311.12174620728" y="9762.884343194164" r="0" s="1.590668663585517">
+      <source w="1910" h="1752">3363054595<url>3363054595.jpg</url></source>
+      <sourceUrl>SimpleControlsModPrntScrn.jpg</sourceUrl>
+    <resource><id>3363054595</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/9/3/0/d5bcb7526c3b8aae47cac4b866d394068f4a2.jpg</url></resource></object>
+    <object id="23_24309637" type="text" x="-13823.261762569704" y="8931.327679967337" r="0" s="12.601601740445936" class="strong">
+      <height>27.59765625</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[arduino]]></text>
+      </p>
+      <layout>
+        <layout-element role="title" parent-id="12_24309637"/>
+      </layout>
+    </object>
+    <object id="25_24309637" type="text" x="-9751.985921238565" y="2609.905459641324" r="0" s="12.273144515767957" class="strong">
+      <height>27.59765625</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[hardware]]></text>
+      </p>
+      <layout>
+        <layout-element role="title" parent-id="7_24309637"/>
+      </layout>
+    </object>
+    <object id="27_38873367" type="image" x="-8370.555644138809" y="3918.3786658967483" r="0" s="1.5820962913457555">
+      <source w="1524" h="857">3361958410<url>3361958410.jpe</url></source>
+      <sourceUrl>https%3A%2F%2Flh4.googleusercontent.com%2F-yA_FWUjKwXk%2FVT9iMVHn7oI%2FAAAAAAAABtg%2FEyv-JT4uWls%2Fw1524-h857-no%2FIMG_20150427_160006057.jpg</sourceUrl>
+    <resource><id>3361958410</id><url>http://0103.static.prezi.com.s3.amazonaws.com/converted/d/f/4/c005bc9b7308ea1964cee9959b7ca0daab2d7.jpe</url></resource></object>
+    <object id="30_38873367" type="image" x="-10608.240486542989" y="3918.2750012361166" r="0" s="2.423066944831243">
+      <source w="643" h="857">3361961119<url>3361961119.jpe</url></source>
+      <sourceUrl>https%3A%2F%2Flh3.googleusercontent.com%2F-oQ_lyGmfrUg%2FVT9idN-TV8I%2FAAAAAAAABt4%2FYINLXc6nV68%2Fw643-h857-no%2FIMG_20150427_184123.jpg</sourceUrl>
+    <resource><id>3361961119</id><url>http://0103.static.prezi.com.s3.amazonaws.com/converted/4/b/9/853e48ba16aea0cccf7c0f4bac2b99be38a33.jpe</url></resource></object>
+    <object id="27_24309637" type="text" x="10799.821069537222" y="2745.4256505327653" r="0" s="12.876759218744965" class="strong">
+      <height>55.1953125</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[future improvements]]></text>
+      </p>
+      <layout>
+        <layout-element role="title" parent-id="10_24309637"/>
+      </layout>
+    </object>
+    <object id="29_24309637" type="text" x="10575.212543465816" y="3763.292483109767" r="0" s="7.429825076315072" class="body">
+      <height>82.79296875</height>
+      <width>390.9237784827681</width>
+      <p>
+        <text><![CDATA[- GSR + skin temp]]></text>
+      </p>
+      <p>
+        <text><![CDATA[- streamline device]]></text>
+      </p>
+      <p>
+        <text><![CDATA[- improved bluetooth transfer]]></text>
+      </p>
+      <layout>
+        <layout-element role="body" parent-id="10_24309637"/>
+      </layout>
+    </object>
+    <object id="30_24309637" type="text" x="16704.32729068231" y="-1762.457886922973" r="0" s="12.59608809461734" class="strong">
+      <height>27.59765625</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[iOS]]></text>
+      </p>
+      <layout>
+        <layout-element role="title" parent-id="9_24309637"/>
+      </layout>
+    </object>
+    <object id="33_38873367" type="image" x="17905.728884809017" y="-452.04273519793327" r="0" s="1.9319204352407486">
+      <source w="643" h="857">3361963165<url>3361963165.jpe</url></source>
+      <sourceUrl>https%3A%2F%2Flh5.googleusercontent.com%2F-ZRLg8GCNnmk%2FVT9i3IT5MVI%2FAAAAAAAABuU%2FgeEi97vYVAQ%2Fw643-h857-no%2FIMG_20150427_194136.jpg</sourceUrl>
+    <resource><id>3361963165</id><url>http://0103.static.prezi.com.s3.amazonaws.com/converted/d/e/6/84d4bbfd5a5aed763c282c6aa993787201fad.jpe</url></resource></object>
+    <object id="20_38873367" type="image" x="15906.592578858206" y="-934.3597244577686" r="0" s="1.496308078142272">
+      <source w="1431" h="805">3363138532<url>3363138532.jpg</url></source>
+      <sourceUrl>viewcontroller.jpg</sourceUrl>
+    <resource><id>3363138532</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/8/4/7/c18cb983c000f57eea7c744ace5c4e6bca820.jpg</url></resource></object>
+    <object id="0_38873367" type="text" x="0.7516215053525768" y="-7965.293434910032" r="0" s="46.94568002349599" class="strong strong-background">
+      <height>55.1953125</height>
+      <width>490.65722573217215</width>
+      <p align="center">
+        <text><![CDATA[an iOS application developed by Christopher Miranda and Ashwin Sundar]]></text>
+      </p>
+    </object>
+    <object id="4_38873367" type="shape" x="13099.605421835453" y="14308.695165502539" r="38.40119906271964" s="58.79451603471404" class="line5">
+      <geom type="line">
+        <sp>13.630286695027564 0</sp>
+        <ep>-13.630286695027564 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="6_38873367" type="button" x="10492.579654566092" y="12347.673765970694" r="0" s="9.549857984505492" class="circle">
+      <type>circle</type>
+      <size>
+        <w>489.3</w>
+        <h>489.3</h>
+      </size>
+      <meta>
+        <parentTemplate>subway2</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="7_38873367" type="text" x="10472.103921615066" y="11169.083592454119" r="0" s="12.876759218744965" class="strong">
+      <height>27.59765625</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[difficulties]]></text>
+      </p>
+      <layout>
+        <layout-element role="title" parent-id="6_38873367"/>
+      </layout>
+    </object>
+    <object id="22_38873367" type="image" x="10055.495637432878" y="12351.179622185351" r="0" s="2.155439100343007">
+      <source w="912" h="907">3363167410<url>3363167410.jpg</url></source>
+      <sourceUrl>literature.jpg</sourceUrl>
+    <resource><id>3363167410</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/c/f/8/c8e611f24ce093cb3baa64b9dc8f3e89f22c9.jpg</url></resource></object>
+    <object id="17_38873367" type="image" x="2112.16051902079" y="3985.483002231016" r="0" s="6.496953415232692">
+      <source w="410" h="260">3361880653<url>3361880653.jpe</url></source>
+      <sourceUrl>http%3A%2F%2Ftheconnorchronicles.files.wordpress.com%2F2013%2F03%2Fprevent-heat-stroke.jpg</sourceUrl>
+    <resource><id>3361880653</id><url>http://0103.static.prezi.com.s3.amazonaws.com/converted/8/f/b/e3314d69f838dd2bdf73ebf6cbb8ee8c59d30.jpe</url></resource></object>
+    <object id="21_38873367" type="image" x="-1113.9795630128617" y="3840.903703519641" r="0" s="7.699022276972153">
+      <source w="203" h="245">3361884154<url>3361884154.gif</url></source>
+      <sourceUrl>http%3A%2F%2Fjameshurt.com%2Fwp-content%2Fuploads%2F2011%2F08%2Fheat-stroke.gif</sourceUrl>
+    <resource><id>3361884154</id><url>http://0103.static.prezi.com.s3.amazonaws.com/converted/4/a/2/541e337e74420c0495f61c2c20fefc4fbdc45.gif</url></resource></object>
+    <object id="23_38873367" type="image" x="663.5289911607681" y="5519.267637203052" r="0" s="4.52461090399217">
+      <source w="565" h="354">3361923301<url>3361923301.jpe</url></source>
+      <sourceUrl>http%3A%2F%2Fottawadogblog.ca%2Fodb-files%2F2010%2F07%2Fbulldog-on-ice.jpg</sourceUrl>
+    <resource><id>3361923301</id><url>http://0103.static.prezi.com.s3.amazonaws.com/converted/3/f/a/e7d26f1e461601271f4b0192c6f02aa8bab39.jpe</url></resource></object>
+    <object id="3_38873367" type="button" x="20675.917126170538" y="3767.504956088755" r="0" s="9.549857984505495" class="circle">
+      <type>circle</type>
+      <size>
+        <w>489.3</w>
+        <h>489.3</h>
+      </size>
+      <meta>
+        <parentTemplate>subway2</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="5_38873367" type="text" x="20675.609599849748" y="2588.8334500525816" r="0" s="12.876759218744969" class="strong">
+      <height>27.59765625</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[image sources]]></text>
+      </p>
+      <layout>
+        <layout-element role="title" parent-id="3_38873367"/>
+      </layout>
+    </object>
+    <object id="11_38873367" type="text" x="21334.45603853014" y="3325.0265825535707" r="0" s="3.8393395945944575" class="body">
+      <height>110.390625</height>
+      <width>1196.3485914259782</width>
+      <p>
+        <text><![CDATA["hydrate": http://thenpmom.files.wordpress.com/2012/06/heat-stroke.jpg]]></text>
+      </p>
+      <p indent="3">
+        <text><![CDATA[http://theconnorchronicles.files.wordpress.com/2013/03/prevent-heat-stroke.jpg]]></text>
+      </p>
+      <p indent="3">
+        <text><![CDATA[http://jameshurt.com/wp-content/uploads/2011/08/heat-stroke.gif]]></text>
+      </p>
+      <p indent="3">
+        <text><![CDATA[http://ottawadogblog.ca/odb-files/2010/07/bulldog-on-ice.jpg]]></text>
+      </p>
+    </object>
+    <object id="24_38873367" type="image" x="10472.808854754927" y="12351.25650376555" r="0" s="1.7928882522786318">
+      <source w="1920" h="739">3363189787<url>3363189787.jpg</url></source>
+      <sourceUrl>circuitspecialists.jpg</sourceUrl>
+    <resource><id>3363189787</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/9/7/b/9e96d529cfca02550d4ab4c388e4dc6dfb143.jpg</url></resource></object>
+    <object id="25_38873367" type="text" x="21334.407860577943" y="3685.207232331294" r="0" s="3.8393395945944575" class="body">
+      <height>27.59765625</height>
+      <width>1196.3485914259782</width>
+      <p>
+        <text><![CDATA["difficulties": maps.google.com]]></text>
+      </p>
+    </object>
+    <object id="26_38873367" type="button" x="-15110.53641712008" y="10415.455195926212" r="0" s="1.430191614758551" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1176.8467475192945</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="1_38873367" type="button" x="-8381.64348170937" y="3913.8458188839263" r="0" s="2.0497329989234463" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1176.8467475192945</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="8_38873367" type="button" x="-8317.866532005526" y="3940.3434054370996" r="0" s="0.3591385301848249" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="10_38873367" type="button" x="17922.602060614143" y="-417.8699856431509" r="0" s="2.4662809321422965" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1176.8467475192945</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="14_38873367" type="button" x="15969.821302633365" y="-958.055267375434" r="0" s="2.1671760362528807" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1176.8467475192945</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="15_38873367" type="button" x="15664.703116323371" y="-932.7759606637858" r="0" s="0.6503999835907162" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1176.8467475192945</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="16_38873367" type="button" x="15621.57600993338" y="-602.5612096183745" r="0" s="0.5283040349944381" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1176.8467475192945</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="19_38873367" type="image" x="20651.122507686105" y="4434.599537143882" r="0" s="1.6727018202369497">
+      <source w="1920" h="739">3365766919<url>3365766919.jpg</url></source>
+      <sourceUrl>circuitspecialists.jpg</sourceUrl>
+    <resource><id>3365766919</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/8/a/2/5d55fac0bf6ca6fb22f6d60834a05e39a92fc.jpg</url></resource></object>
+  </zui-table>
+  <background>
+    <layer depth="9.411186184947756" fadescale="0.08387375374589678">
+      <object id="background2019950362" type="image" x="744.999883710542" y="291.4817240095868" r="0" s="46.24451820557089">
+        <source w="1800" h="1361">2019950362<url>2019950362.png</url></source>
+        <sourceUrl>foldedmap_theme3.png</sourceUrl>
+      <resource><id>2019950362</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/a/b/4/4d9df5e1f53e19998f5269295ea4f22d84548.png</url></resource></object>
+    </layer>
+  </background>
+  <path>
+    <s>
+      <eagle o="4_24309637"/>
+    </s>
+    <s>
+      <eagle o="8_24309637"/>
+    </s>
+    <s>
+      <eagle o="12_24309637"/>
+    </s>
+    <s>
+      <eagle o="26_38873367"/>
+    </s>
+    <s>
+      <eagle o="7_24309637"/>
+    </s>
+    <s>
+      <eagle o="1_38873367"/>
+    </s>
+    <s>
+      <eagle o="9_24309637"/>
+    </s>
+    <s>
+      <eagle o="10_38873367"/>
+    </s>
+    <s>
+      <eagle o="14_38873367"/>
+    </s>
+    <s>
+      <eagle o="15_38873367"/>
+    </s>
+    <s>
+      <eagle o="16_38873367"/>
+    </s>
+    <s>
+      <eagle o="10_24309637"/>
+    </s>
+    <s>
+      <eagle o="4_24309637"/>
+    </s>
+    <s>
+      <eagle o="3_38873367"/>
+    </s>
+  </path>
+  <style type="text/css"><![CDATA[
+@font-face
+{
+	src: url('Arimo-Regular.keg');
+	fontFamily: body;
+	font-class: body;
+	font-style: normal;
+	font-weight: normal;
+	font-family: Arimo;
+}
+
+@font-face
+{
+	src: url('Arimo-Bold.keg');
+	fontFamily: head;
+	font-class: head;
+	font-style: normal;
+	font-weight: bold;
+	font-family: Arimo;
+}
+
+@font-face
+{
+	src: url('Arimo-BoldItalic.keg');
+	fontFamily: strong;
+	font-class: strong;
+	font-style: italic;
+	font-weight: bold;
+	font-family: Arimo;
+}
+
+@font-face
+{
+	src: url('Arimo-Italic.keg');
+	fontFamily: undefined;
+	font-class: undefined;
+	font-style: italic;
+	font-weight: normal;
+	font-family: Arimo;
+}
+
+.line1
+{
+	color: #333;
+	gradEndColor: #333;
+	gradStartColor: #333;
+}
+
+.line2
+{
+	color: #ffc801;
+	gradEndColor: #ffc801;
+	gradStartColor: #ffc801;
+}
+
+.line3
+{
+	color: #10ad76;
+	gradEndColor: #10ad76;
+	gradStartColor: #10ad76;
+}
+
+.line4
+{
+	color: #006cb7;
+	gradEndColor: #006cb7;
+	gradStartColor: #006cb7;
+}
+
+.line5
+{
+	color: #e30f01;
+	gradEndColor: #e30f01;
+	gradStartColor: #e30f01;
+}
+
+.poly1
+{
+	gradEndColor: #333;
+	gradStartColor: #333;
+}
+
+.poly2
+{
+	gradEndColor: #ffc801;
+	gradStartColor: #ffc801;
+}
+
+.poly3
+{
+	gradEndColor: #10ad76;
+	gradStartColor: #10ad76;
+}
+
+.poly4
+{
+	gradEndColor: #006cb7;
+	gradStartColor: #006cb7;
+}
+
+.poly5
+{
+	gradEndColor: #e30f01;
+	gradStartColor: #e30f01;
+}
+
+Background
+{
+	gradEnd: #fff;
+	gradStart: #fff;
+}
+
+Grid
+{
+	color: #b8b8b8;
+}
+
+ZArrow
+{
+	borderAlpha: 0;
+	borderColor: #333;
+	borderThickness: 1.5;
+	gradEndAlpha: .7;
+	gradStartAlpha: 1;
+	lockTintAlpha: 0;
+}
+
+ZCircle
+{
+	borderAlpha: 0;
+	gradEndAlpha: 1;
+	gradStartAlpha: 1;
+	lockTintAlpha: 0;
+	radius: 0;
+	thickness: 100;
+}
+
+ZCurveLine
+{
+	color: #000;
+}
+
+ZFrame.bracket
+{
+	gradEndAlpha: 1;
+	gradEndColor: #333;
+	gradStartAlpha: 1;
+	gradStartColor: #333;
+	padding: 1.03;
+	thickness: 8;
+}
+
+ZFrame.circle
+{
+	gradEndAlpha: 1;
+	gradEndColor: #ccc;
+	gradStartAlpha: 1;
+	gradStartColor: #ccc;
+	padding: 1.03;
+	thickness: 8;
+}
+
+ZFrame.roundrect
+{
+	borderAlpha: 1;
+	borderColor: #333;
+	borderThickness: 1;
+	gradEndAlpha: .7;
+	gradEndColor: #fff;
+	gradStartAlpha: .7;
+	gradStartColor: #fff;
+	padding: 1.03;
+	radius: 0;
+}
+
+ZLabel
+{
+	lockTintAlpha: 0.15;
+	padding: 1.2;
+}
+
+ZLabel.body
+{
+	color: #333;
+	fontFamily: body;
+}
+
+ZLabel.body-background
+{
+	background-alpha: 0.9;
+	background-color: #efefef;
+	background-padding: 6;
+}
+
+ZLabel.head
+{
+	color: #333;
+	fontFamily: head;
+}
+
+ZLabel.head-background
+{
+	background-alpha: .8;
+	background-color: #fff;
+	background-padding: 6;
+}
+
+ZLabel.strong
+{
+	color: #e30f01;
+	fontFamily: strong;
+}
+
+ZLabel.strong-background
+{
+	background-alpha: .9;
+	background-color: #ccc;
+	background-padding: 6;
+}
+
+ZLine
+{
+	color: #333;
+	lockTintAlpha: 0;
+}
+
+ZMarker
+{
+	alpha: 0.6;
+	color: #e30f01;
+}
+
+ZPath
+{
+	alpha: 1;
+	color: #40abe6;
+	textColor: #fff;
+	thickness: 3;
+}
+
+ZPath Ball.base
+{
+	alpha: 1;
+	fillColor: #40abe6;
+	radius: 12;
+}
+
+ZPath Ball.mid
+{
+	alpha: .5;
+	fillColor: #40abe6;
+	radius: 8;
+}
+
+ZPoly
+{
+	borderAlpha: 0;
+	gradEndAlpha: 1;
+	gradStartAlpha: 1;
+	lockTintAlpha: 0;
+	radius: 0;
+	thickness: 100;
+}
+
+]]></style>
+  <hash>-56e1e002</hash>
+<sync><oid>irj0syg_tiky</oid><title>hydrate</title><hash>-56e1e002</hash></sync><config>M4QkmVRqL5cCKIT/AoPiTCBCd/7Ujxg7GSfi0FiJ7fR+E4MNC2zEF0J6/S6AuLJC3PSpAKBXSX3FnEQ6CexbLV+qrUrKuFzbjId+nw1vlvReXFeuV4LIxjQuArfNAmdJ+igp9rcbr8qBCNmgYNRQu1+E26aMD2PXXTJNQ3RpRyqynLYQABZuior6IMus2rwAYzFrLfcrzb5ANmQWZ9yEgvkypXTDgkdzyfB7DMxM/CKyH70bwSV/Q4dYD4MkRunQWwX9cng3INCEXMgbFb00gIm9ZNoxP5TrW4uFpyIE6bWgJ/DOePt1xJfBe92sQMWyYwD9DylKh8EDUugw4e9ROw==</config></zuiprezi>
